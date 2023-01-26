@@ -1,6 +1,3 @@
-# -
-http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&amp;wr_id=3878
-
 #include <stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
 
